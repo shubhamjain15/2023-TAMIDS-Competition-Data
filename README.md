@@ -6,4 +6,6 @@ Datasets and Executable codes for 2023 TAMIDS Data Science Competition (Team - S
 3. <strong>Plots</strong> - saves png files for plots in report 
 4. <strong>GIS_data</strong> - geodatabase for GIS data used in analysis and arcpro map project files for map preparation 
 5. <strong>DNN_model</strong> - Executable Python notebook to run Deep Neural Network (DNN) model 
-6. <strong>TAMIDS_2023_SAMS_STRIKERS.pdf</strong> - Final Report 
+6. <strong>wildfires_data.csv </strong> - Dataset prepared for DNN model
+7. <strong>TAMIDS_2023_SAMS_STRIKERS.pdf</strong> - Final Report 
+ 
