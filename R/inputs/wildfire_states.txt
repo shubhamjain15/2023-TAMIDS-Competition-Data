@@ -1,0 +1,50 @@
+﻿OID_,Join_Count,STATEFP,NAME
+0,43,28,Mississippi
+1,43,37,North Carolina
+2,267,40,Oklahoma
+3,33,51,Virginia
+4,15,54,West Virginia
+5,34,22,Louisiana
+6,4,26,Michigan
+7,0,25,Massachusetts
+8,426,16,Idaho
+9,255,12,Florida
+10,22,31,Nebraska
+11,239,53,Washington
+12,224,35,New Mexico
+14,37,46,South Dakota
+15,434,48,Texas
+16,448,06,California
+17,28,01,Alabama
+18,31,13,Georgia
+19,8,42,Pennsylvania
+20,40,29,Missouri
+21,130,08,Colorado
+22,187,49,Utah
+23,25,47,Tennessee
+24,125,56,Wyoming
+25,5,36,New York
+26,67,20,Kansas
+28,278,32,Nevada
+29,0,17,Illinois
+30,0,50,Vermont
+31,307,30,Montana
+32,0,19,Iowa
+33,16,45,South Carolina
+34,0,33,New Hampshire
+35,343,04,Arizona
+36,0,11,District of Columbia
+39,12,34,New Jersey
+40,5,24,Maryland
+41,0,23,Maine
+43,0,10,Delaware
+46,0,44,Rhode Island
+47,27,21,Kentucky
+48,0,39,Ohio
+49,2,55,Wisconsin
+50,302,41,Oregon
+51,7,38,North Dakota
+52,38,05,Arkansas
+53,1,18,Indiana
+54,30,27,Minnesota
+55,0,09,Connecticut
