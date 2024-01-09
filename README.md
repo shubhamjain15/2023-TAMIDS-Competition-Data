@@ -1,5 +1,10 @@
 # 2023-TAMIDS-Competition-Data-Sam-s-Strikers
 Datasets and Executable codes for 2023 TAMIDS Data Science Competition (Team - Sam's Strikers) 
+
+## 3rd place overall.
+## Best supplementary materials award.
+## Best mid-point visualization award. 
+
 # Folder Structure - 
 1. <strong>R</strong> - Codes for initial data analysis and preparation. Downloading and cleaning remote sensing datasets, and plotting figures.
 2. <strong>shiny-app</strong> - R code for shiny web application https://shubhamjain.shinyapps.io/Wildfires/ 
