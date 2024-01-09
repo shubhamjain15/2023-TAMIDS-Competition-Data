@@ -1,4 +1,4 @@
-# 2023-TAMIDS-Competition-Data-Sam-s-Strikers
+# 2023-TAMIDS-Competition-Data
 Datasets and Executable codes for 2023 TAMIDS Data Science Competition (Team - Sam's Strikers) 
 
 ### Awarded 3rd place in the graduate competition.
