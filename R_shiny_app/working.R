@@ -1,0 +1,6 @@
+library(geojsonio)
+library(rmapshaper)
+library(sf)
+wf_area <- readOGR(dsn = "./data/shapes",layer = "wildfire_area", verbose = FALSE)
+wf_area <- ms_simplify(wf_area)
+geojson_write(wf_area, file = "./wf_area.geojson")
